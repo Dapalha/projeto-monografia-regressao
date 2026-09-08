@@ -102,5 +102,5 @@ Projeto desenvolvido como parte da monografia de conclusão de curso.
 
 **Autor:** Gustavo Luiz Ribeiro da Cruz  
 **Instituição:** Cefet-rj  
-**Curso:** SEU CURSO  
+**Curso:** Bacharelado em Engenharia Eletrônica  
 **Ano:** 2026
