@@ -4,13 +4,11 @@ Repositório destinado à disponibilização do código-fonte utilizado no proje
 
 O código foi desenvolvido em Python e estruturado para execução no Google Colaboratory (Google Colab), utilizando uma base de dados armazenada separadamente no Google Drive.
 
-## 🚀 Abrir no Google Colab
-
-Após publicar este repositório, utilize:
+## Abrir no Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dapalha/projeto-monografia-regressao/blob/main/Regressao_com_Limitador.ipynb)
 
-## 📂 Estrutura do repositório
+## Estrutura do repositório
 
 ```text
 projeto-monografia-regressao/
@@ -20,7 +18,7 @@ projeto-monografia-regressao/
 └── .gitignore
 ```
 
-## 🗄️ Base de dados
+## Base de dados
 
 A base de dados utilizada pelo projeto é mantida separadamente no Google Drive devido ao seu volume.
 
@@ -44,11 +42,11 @@ Os arquivos de entrada devem possuir o padrão:
 
 ### Link da base de dados
 
-**Inserir aqui o link da pasta compartilhada do Google Drive.**
+**https://drive.google.com/drive/folders/1vWRL0WtCI7Sl2JTjXNsoze-_mW5xlLAp?usp=drive_link**
 
 > A base deve ser disponibilizada de acordo com as regras de acesso e confidencialidade aplicáveis ao trabalho acadêmico.
 
-## ▶️ Como executar
+## Como executar
 
 1. Acesse este repositório.
 2. Abra `Regressao_com_Limitador.ipynb`.
@@ -61,11 +59,11 @@ Os arquivos de entrada devem possuir o padrão:
 
 O notebook verifica automaticamente se a pasta da base existe e se foram encontrados arquivos de entrada.
 
-## 📊 Processamento
+## Processamento
 
 O notebook realiza as etapas computacionais definidas no projeto, incluindo carregamento dos arquivos, engenharia de atributos, preparação dos dados, treinamento e avaliação do modelo, análise individual por rastreador, geração de gráficos e salvamento do modelo treinado.
 
-## 📁 Resultados
+## Resultados
 
 Os resultados são gerados na pasta:
 
@@ -86,7 +84,7 @@ scaler.pkl
 feature_names.txt
 ```
 
-## 📦 Dependências
+## Dependências
 
 As principais bibliotecas utilizadas são:
 
@@ -99,7 +97,7 @@ As principais bibliotecas utilizadas são:
 
 As dependências estão documentadas em `requirements.txt`.
 
-## 🔬 Reprodutibilidade
+## Reprodutibilidade
 
 A organização do projeto separa os três elementos principais:
 
@@ -107,11 +105,9 @@ A organização do projeto separa os três elementos principais:
 - **Base de dados:** Google Drive;
 - **Resultados da execução:** pasta `resultados` no Google Drive.
 
-Essa organização evita versionar uma base de grande volume diretamente no GitHub e permite que o código seja consultado e executado de forma independente.
-
-## 🎓 Informações acadêmicas
+## Informações acadêmicas
 
 **Autor:** Gustavo Luiz Ribeiro da Cruz  
 **Instituição:** CEFET/RJ  
-**Curso:** [preencher]  
+**Curso:** Bacharelado em Engenharia Eletrônica  
 **Ano:** 2026
