@@ -46,12 +46,11 @@ Meu Drive/
 ├── dados_brutos/            planilhas *_auditoria.csv ou .xlsx
 └── dataset_tratado/         *_treated.csv (gerados pelo notebook 01)
     └── resultados/
-        ├── fraudes_confirmadas.csv   opcional: rastreador;inicio;fim
         ├── modelos_finais.pkl
         └── figuras/
 ```
 
-Link da base: https://drive.google.com/drive/folders/1vWRL0WtCI7Sl2JTjXNsoze-_mW5xlLAp?usp=drive_link
+Link da base: https://drive.google.com/drive/my-drive
 
 ## Metodologia
 
